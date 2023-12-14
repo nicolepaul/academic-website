@@ -29,16 +29,16 @@ bio: Researching population displacement in disasters
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interest 1
+  - Interest 2
+  - Interest 3
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Institute for Risk and Disaster Reduction
-      institution: University College London
-      year: Current
+    # - course: PhD Institute for Risk and Disaster Reduction
+    #   institution: University College London
+    #   year: Current
     - course: MSc Structural Engineering
       institution: Stanford University
       year: 2015
