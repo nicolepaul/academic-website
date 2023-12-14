@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "Household Displacement and Return in Disasters: A Review"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Nicole Paul
+- Carmine Galasso
+- Jack Baker
+date: "2023-12-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-12-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +16,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Natural Hazards Review, 25*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Household displacement following disasters has become endemic in many areas worldwide, affecting at least 265 million people between 2008 and 2018. Although this figure includes short-term and potentially life-saving evacuations, there is ample evidence that not all households return after the emergency phase. Protracted displacement is associated with particularly negative consequences for the affected households and community. Yet, existing data on displacement duration are limited, and only a few disaster recovery models incorporate the multitude of factors beyond housing damage that are known to influence household return. This review synthesizes the current literature on disaster-induced displacement, including key terminology and context, the determinants of household return decisions, existing model-based approaches, and opportunities for future research. The identified key determinants of household return can be broadly organized into the following categories: physical damage to the built environment, psychological and social phenomena (e.g., attachment to place, social networks), household demographics (e.g., tenure, socioeconomic status), and pre- and postdisaster policies (e.g., housing reconstruction approach, design of aid programs)."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://ascelibrary.org/doi/epdf/10.1061/NHREFO.NHENG-1930
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
