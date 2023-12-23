@@ -19,7 +19,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.' # TODO
+    description: 'Hi, I’m Nicole Paul! 👋 I’m currently researching household displacement due to disasters at University College London (UCL). My research is supervised by Prof. Carmine Galasso (UCL) and Prof. Jack Baker (Stanford University).' # TODO
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
