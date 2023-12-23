@@ -1,0 +1,38 @@
+# Theme metadata
+name = "Custom"
+
+[light]
+  # Primary
+  primary = "#5a464c"
+
+  # Links
+  link = "#5a464c"
+  link_hover = "#3e3d3d"
+
+  # Menu
+  menu_primary = "#fefefe"
+  menu_text = "#3e3d3d"
+  menu_text_active = "#3e3d3d"
+  menu_title = "#5a464c"
+
+  # Home sections
+  home_section_odd = "#fefefe"
+  home_section_even = "#fefefe"
+
+[dark]
+  # Primary
+  primary = "#f3f6ee"
+
+  # Links
+  link = "#f3f6ee"
+  link_hover = "#fefefe"
+
+  # Menu
+  menu_primary = "#3e3d3d"
+  menu_text = "#f3f6ee"
+  menu_text_active = "#fefefe"
+  menu_title = "#f3f6ee"
+
+  # Home sections
+  home_section_odd = "#3e3d3d"
+  home_section_even = "#3e3d3d"
