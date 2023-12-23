@@ -11,7 +11,7 @@ last_name: Paul
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,34 +66,15 @@ skills:
   #       percent: 40
   #       icon: database
   #       icon_pack: fas
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-hiking
-  #       icon_pack: fas
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #       icon_pack: fas
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera-retro
-  #       icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:nicole.paul.22@ucl.ac.uk'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nicoleapaul/
@@ -120,8 +101,31 @@ social:
 highlight_name: true
 ---
 
-I'm currently researching household displacement due to disasters at University College London (UCL). My supervisors are Prof. Carmine Galasso (UCL) and Prof. Jack Baker (Stanford University).
+I'm currently researching household displacement due to disasters at University College London (UCL). My research is supervised by Prof. Carmine Galasso (UCL) and Prof. Jack Baker (Stanford University).
 
-Previously, I worked for the Global Earthquake Model (GEM) Foundation for 4 years (2019-2023) and for Arup's Risk and Resilience team for 5 years (2014-2019).
+My background is in structural engineering and I have over nine years of experience quantifying disaster risks. At the Global Earthquake Model (GEM) Foundation, I focused on national and regional scale earthquake risk assessment. At Arup, I worked at the building-specfic and campus scales, with an emphasis on recovery modeling.
+
+<div class="container">
+  <div class="row justify-content-between">
+    <div class="col">
+      <h2>Experience</h2>
+        <ul class="fa-ul">
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span><b>Global Earthquake Model, 2019-2023</b></li>
+        <li>Pavia, Italy</li>
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span><b>Arup, Risk and Resilience, 2014-2019</b></li>
+        <li>San Francisco, California, USA</li>
+        </ul>
+    </div>
+    <div class="col">
+      <h2>Education</h2>
+        <ul class="fa-ul">
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span><b>MSc Structural Engineering, 2015</b></li>
+        <li>Stanford University</li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span><b>BSc Civil Engineering, 2013</b></li>
+        <li>University of California, Berkeley</li>
+        </ul>
+    </div>
+  </div>
+</div>
 
 {style="text-align: justify;"}
