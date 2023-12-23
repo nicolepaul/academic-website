@@ -34,7 +34,9 @@ abstract: 'Recent earthquakes have demonstrated that the vertical component of g
 # Summary. An optional shortened abstract.
 summary: 'Recent earthquakes have demonstrated that the vertical component of ground motion can be damaging to building structural and nonstructural components. Recorded vertical accelerations from these recent earthquakes significantly exceed the vertical spectral demands used for seismic design prescribed in building codes in the United States. The focus of this paper is to determine, through non-linear time history analyses, the expected behavior of a code-compliant 3-story steel moment frame structure under vertical accelerations consistent with the design level earthquake intensity. This study differs from prior research because all components, including gravity elements, are explicitly modeled to capture potential non-linear behavior. Prior studies compared elastic demand-capacity ratios for some structural elements, which may not provide a meaningful measure of damage due to the high frequency nature of vertical response. Insights from the analysis are used to recommend future research needs.' 
 
-tags: []
+tags:
+  - finite element analysis
+  - earthquakes
 
 # Display this page in the Featured widget?
 featured: false
@@ -74,13 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -33,7 +33,10 @@ abstract: 'An open Global Risk Model was published by the GEM Foundation in 2018
 # Summary. An optional shortened abstract.
 summary: 'An open Global Risk Model was published by the GEM Foundation in 2018, a multi-year effort (2014-2018) made possible through bilateral collaborations and regional projects. This model encompassed a global mosaic of probabilistic seismic hazard models, a global exposure dataset, and a set of vulnerability models. These components were combined within the OpenQuake- engine to produce several seismic hazard and risk results, including seismic hazard maps for a set of return period and intensity measures, average annualized losses at the smallest administrative level for each country, and identification of the regions with the highest risk globally. Since its initial publication, several improvements have been made to each of the components (i.e., hazard, exposure, vulnerability, and risk). The key features of each revision are described in this paper, as well as a comparison of the differences in risk results between the 2018 model and today’s model.' 
 
-tags: []
+tags:
+  - disaster risk
+  - earthquakes
+  - global earthquake model
 
 # Display this page in the Featured widget?
 featured: false
@@ -73,13 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

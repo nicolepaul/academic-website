@@ -34,7 +34,9 @@ abstract: 'As analytical models become more numerous and complex, automation bec
 # Summary. An optional shortened abstract.
 summary: 'As analytical models become more numerous and complex, automation becomes essential to allow time for critical thought and innovation. This companion paper details a suite of tools that have been developed to enable advanced nonlinear site response analyses to be carried out in an automated fashion. These automation tools were built within various programming environments and have the ability to handle pre and post-processing tasks as well as interface directly with the finite element analysis program LS-DYNA. Pre-processing begins with a program written in Excel Visual Basic for Applications, which generates data to be fed to the processer (LS-DYNA) with a JavaScript API. After running the model, JavaScript is again employed to prepare the output data for the post-processor, which was written in Matlab. The functionality and development of each rapid automation tool is presented and the resulting time savings are discussed. Altogether, these rapid automation tools have decreased the required worker hours for pre-and post-processing of site response analyses from over two days to under half an hour per soil column.' 
 
-tags: []
+tags:
+  - earthquakes
+  - finite element analysis
 
 # Display this page in the Featured widget?
 featured: false
@@ -74,13 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

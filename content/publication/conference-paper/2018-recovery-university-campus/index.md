@@ -35,7 +35,12 @@ abstract: 'In the aftermath of previous moderate to large earthquakes (e.g. Loma
 # Summary. An optional shortened abstract.
 summary: 'In the aftermath of previous moderate to large earthquakes (e.g. Loma Prieta 1989, Northridge 1994, and Christchurch 2011), nearby university campuses (e.g. Stanford, California State University, and University of Canterbury) have experienced widespread building damage, disruption of lecture and research, and reduction of undergraduate and graduate attendance. Other potential consequences of an earthquake could include life-safety issues and a loss of university reputation. While the value of ensuring campus-wide resilience in the face of earthquakes is apparent, the strategy to achieve measurable improved performance can be difficult to develop and quantify. This paper presents a methodology for estimating disruption and recovery of space on a university campus based on the REDi downtime assessment methodology (founded upon FEMA P-58). This is used to predict downtime for individual buildings due to building repairs and delays to the initiation of repairs (i.e. impeding factors). Hundreds of earthquake scenarios were considered to impact an example campus, and the related results are presented. Particular attention is paid to metrics of primary interest to university campuses, including restoration of different occupancy space over time and displacement of student populations.' 
 
-tags: []
+tags:
+  - REDi
+  - resilience
+  - recovery modeling
+  - building downtime
+  - earthquakes
 
 # Display this page in the Featured widget?
 featured: false
@@ -75,13 +80,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

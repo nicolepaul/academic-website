@@ -25,7 +25,8 @@ abstract: 'Household displacement following disasters has become endemic in many
 summary: 'Household displacement following disasters has become endemic in many areas worldwide, affecting at least 265 million people between 2008 and 2018. Although this figure includes short-term and potentially life-saving evacuations, there is ample evidence that not all households return after the emergency phase. Protracted displacement is associated with particularly negative consequences for the affected households and community. Yet, existing data on displacement duration are limited, and only a few disaster recovery models incorporate the multitude of factors beyond housing damage that are known to influence household return. This review synthesizes the current literature on disaster-induced displacement, including key terminology and context, the determinants of household return decisions, existing model-based approaches, and opportunities for future research.'
 
 tags:
-- Source Themes
+ - household displacement
+ - disaster risk
 featured: true
 
 # links:
@@ -61,13 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

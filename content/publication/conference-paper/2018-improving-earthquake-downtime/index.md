@@ -35,7 +35,12 @@ abstract: 'Earthquake-induced loss of functionality and downtime in individual b
 # Summary. An optional shortened abstract.
 summary: 'Earthquake-induced loss of functionality and downtime in individual buildings can cause major economic and societal impacts, ranging from displacement of individual families and businesses to disruption of emergency medical services and government functions. The ability to predict recovery times for buildings after an earthquake is a critical component in understanding and mitigating the seismic risks facing a community. The seismic performance assessment methodology proposed by FEMA P-58 created a framework that translated structural performance into metrics that would enable stakeholders to make risk-informed decisions. Upon that framework, the REDi downtime assessment methodology was created to convert repair times from a FEMA P-58 assessment into building downtime through realistic labor allocation, consideration of delays to initiation of repairs, and calculation of intermediate goals along the path to full recovery. Since its initial development in 2013, the REDi downtime assessment methodology has been implemented in several projects. From these project and research applications, further improvements have been made to the previously published methodology. These improvements, key takeaways, and remaining challenges are discussed.' 
 
-tags: []
+tags:
+  - REDi
+  - resilience
+  - recovery modeling
+  - building downtime
+  - earthquakes
 
 # Display this page in the Featured widget?
 featured: false
@@ -75,13 +80,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

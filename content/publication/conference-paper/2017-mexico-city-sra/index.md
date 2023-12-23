@@ -37,7 +37,9 @@ abstract: 'This paper presents a series of validation exercises for seismic site
 # Summary. An optional shortened abstract.
 summary: 'This paper presents a series of validation exercises for seismic site response analysis using the recordings from three well-instrumented, urban lakebed seismograph stations in Mexico City (CAO, SCT and TXS2). The dynamic behavior of Mexico City Clay has long been a topic of great interest among geo-seismic researchers due to the lack of consensus as to the cause of the unusually high site amplifications and long durations of ground motion measured in the lakebed. While some researchers have postulated that trapped waves in the basin of Mexico City are the cause, others have attempted to disprove this theory through validation of one-dimensional site response analysis with mixed degrees of success. The current study concludes that the cause lies both in the response of the deep basin and the unique properties of Mexico City Clay (including low damping and shear wave velocity). This study demonstrates that nonlinear site response analysis with bi-directional excitation using LS-DYNA results in comparable site amplifications and surface acceleration spectra to the recorded data, provided that the base input motion appropriately accounts for the deep basin (either directly through downhole array measurements or via GMPEs specifically developed for Mexico City "rock" or hard layer). The site response analysis proposed herein explicitly incorporates the unusual properties of Mexico City Clay in the time-domain nonlinear approach (low damping, strain rate effects, cyclic degradation). This study also indicates that the surface response is highly sensitive to the assumed shear wave velocities, requiring consideration of modifications to in situ geophysical measurements due to phenomena such as the thixotropy of the clays.' 
 
-tags: []
+tags:
+  - finite element analysis
+  - earthquakes
 
 # Display this page in the Featured widget?
 featured: false
@@ -77,13 +79,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

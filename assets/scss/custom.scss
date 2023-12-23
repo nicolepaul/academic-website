@@ -4,3 +4,20 @@
 .fab{
     font-size: 1.0em; 
 }
+.alert, .article-style aside, .alert-note {
+    color: #5a464c !important;
+    background-color: #f3f6ee;
+    border-color: #5a464c;
+}
+.article-style aside p::before, div.alert > div:first-child::before {
+    position: absolute;
+    top: -0.5rem;
+    left: -2rem;
+    font-size: 1.5rem;
+    color: #5a464c;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    content: '\f05a';
+    width: 1.5rem;
+    text-align: center;
+}

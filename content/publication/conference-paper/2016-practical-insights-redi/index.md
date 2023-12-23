@@ -38,7 +38,10 @@ abstract: 'The REDi Rating System (v1.0) was published in late 2013 as a guideli
 # Summary. An optional shortened abstract.
 summary: 'The REDi Rating System (v1.0) was published in late 2013 as a guideline for implementing “resilience-based earthquake design” to achieve “beyond code” resilience objectives in the design of new construction. Since its publication, the REDi guidelines have been incorporated into several RFP’s and have been adopted for the design of high-profile projects including the 181 Fremont Tower in San Francisco (designed by Arup) and the Long Beach Civic Center (designed by NYA and SOM). In addition, the REDi downtime methodology (which enables calculation of the time required to achieve re-occupancy and functionality) have been utilized for existing building portfolio risk analysis for the University of British Columbia, Vancouver (UBC) to provide a significantly more detailed view of the risk relative to standard methods (i.e. HAZUS) and the REDi guidelines and framework will inform future mitigation strategies on campus. In this article, the designers will share their experiences and lessons learned from incorporating the REDi framework in their projects, including communication with their respective clients, influence on their design approach, the adoption of specific design and/or planning enhancements, and the overall design and peer review process.' 
 
-tags: []
+tags:
+  - REDi
+  - resilience
+  - earthquakes
 
 # Display this page in the Featured widget?
 featured: false
@@ -78,13 +81,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

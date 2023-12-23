@@ -35,7 +35,10 @@ abstract: 'In the aftermath of an earthquake, the number of occupants within des
 # Summary. An optional shortened abstract.
 summary: 'In the aftermath of an earthquake, the number of occupants within destroyed housing is often used to approximate the number of people rendered homeless after the event. While this metric can provide rapid situational awareness, more recent research highlights the importance of additional factors beyond housing damage within the scope of household displacement (e.g., utility disruption, housing tenure, place attachment). This study models three recent earthquakes from different geographies (Haiti, Japan, and Nepal) to benchmark housing damage as a driver of population displacement against reported values and mobile location data-based estimates.' 
 
-tags: []
+tags:
+ - household displacement
+ - earthquakes
+ - disaster risk
 
 # Display this page in the Featured widget?
 featured: true
@@ -75,13 +78,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
