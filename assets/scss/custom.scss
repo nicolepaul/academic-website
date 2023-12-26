@@ -35,8 +35,11 @@
 body.dark, .dark {
     background:#2b2a2a
 }
-
 .dark .btn-outline-primary {
     color: #f3f6ee;
     border-color: #f3f6ee;
+}
+.dark .form-control {
+    color: #f3f6ee;
+    background-color: #373636;
 }
