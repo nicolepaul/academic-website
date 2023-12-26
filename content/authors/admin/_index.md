@@ -122,7 +122,7 @@ My background is in structural engineering and I have over nine years of experie
         <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Structural Engineering, 2015</li>
         <li><span class="portrait-title"><h3>Stanford University</h3></li>
         <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Civil Engineering, 2013</li>
-        <li><span class="portrait-title"><h3>University of Calfiornia, Berkeley</h3></li>
+        <li><span class="portrait-title"><h3>University of California, Berkeley</h3></li>
         </ul>
     </div>
   </div>
