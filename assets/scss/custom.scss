@@ -21,3 +21,22 @@
     width: 1.5rem;
     text-align: center;
 }
+.dark .card-simple {
+    background-color: #373636;
+    }
+.navbar {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+.dark .navbar {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+    border: 1px solid #2b2a2a;
+}
+body.dark, .dark {
+    background:#2b2a2a
+}
+
+.dark .btn-outline-primary {
+    color: #f3f6ee;
+    border-color: #f3f6ee;
+}

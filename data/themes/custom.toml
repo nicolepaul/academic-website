@@ -28,11 +28,11 @@ name = "Custom"
   link_hover = "#fefefe"
 
   # Menu
-  menu_primary = "#3e3d3d"
+  menu_primary = "#2b2a2a"
   menu_text = "#f3f6ee"
   menu_text_active = "#fefefe"
   menu_title = "#f3f6ee"
 
   # Home sections
-  home_section_odd = "#3e3d3d"
-  home_section_even = "#3e3d3d"
+  home_section_odd = "#2b2a2a"
+  home_section_even = "#2b2a2a"

@@ -110,19 +110,19 @@ My background is in structural engineering and I have over nine years of experie
     <div class="col">
       <h2>Experience</h2>
         <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span><b>Global Earthquake Model, 2019-2023</b></li>
-        <li>Pavia, Italy</li>
-        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span><b>Arup, Risk and Resilience, 2014-2019</b></li>
-        <li>San Francisco, California, USA</li>
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Global Earthquake Model, 2019-2023</li>
+        <li><span class="portrait-title"><h3>Pavia, Italy</h3></span></li>
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Arup, Risk and Resilience, 2014-2019</li>
+        <li><span class="portrait-title"><h3>San Francisco, CA, USA</h3></li>
         </ul>
     </div>
     <div class="col">
       <h2>Education</h2>
         <ul class="fa-ul">
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span><b>MSc Structural Engineering, 2015</b></li>
-        <li>Stanford University</li>
-        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span><b>BSc Civil Engineering, 2013</b></li>
-        <li>University of California, Berkeley</li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Structural Engineering, 2015</li>
+        <li><span class="portrait-title"><h3>Stanford University</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Civil Engineering, 2013</li>
+        <li><span class="portrait-title"><h3>University of Calfiornia, Berkeley</h3></li>
         </ul>
     </div>
   </div>
