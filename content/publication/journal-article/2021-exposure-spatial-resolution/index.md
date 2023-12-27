@@ -19,7 +19,7 @@ publishDate: "2023-12-19T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Bulletin of Earthquake Engineering , 19*(14)"
+publication: "*Bulletin of Earthquake Engineering, 19*(14)"
 publication_short: ""
 
 abstract: 'The spatial resolution of exposure data has a substantial impact on the accuracy and reliability of seismic risk estimates. While several studies have investigated the influence of the geographical detail of urban exposure data in earthquake loss models, there is also a need to understand its implications at the regional scale. This study investigates the effects of exposure resolution on the European loss model and its influence on the resulting loss estimates by simulating dozens of exposure and site models (630 models) representing a wide range of assumptions related to the geo-resolution of the exposed asset locations and the associated site conditions. Losses are examined in terms of portfolio average annual loss (AAL) and return period losses at national and sub-national levels. The results indicate that neglecting the uncertainty related to asset locations and their associated site conditions within an exposure model can introduce significant bias to the risk results. The results also demonstrate that disaggregating exposure to a grid or weighting/relocating exposure locations and site properties using a density map of the built areas can improve the accuracy of the estimated losses.'

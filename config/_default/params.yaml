@@ -20,14 +20,14 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Hi, I’m Nicole Paul! 👋 I’m currently researching household displacement due to disasters at University College London (UCL). My research is supervised by Prof. Carmine Galasso (UCL) and Prof. Jack Baker (Stanford University).' # TODO
-    twitter: 'GetResearchDev'
+    twitter: 'nicopurr'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'Ct8pKMCcfRW2FJoHg08dlHxkOhl__CvKhL5ri8zw3_Y'
     baidu: ''
 
 # Site header
