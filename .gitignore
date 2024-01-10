@@ -4,6 +4,9 @@
 # IDEs
 .idea/
 
+# Images
+media
+
 # Hugo
 resources/
 public/
