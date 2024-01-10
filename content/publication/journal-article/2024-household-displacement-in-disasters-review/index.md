@@ -26,18 +26,14 @@ summary: 'Household displacement following disasters has become endemic in many 
 
 tags:
  - household displacement
- - disaster risk
 featured: true
 
 # links:
-# - name: ""
-#   url: ""
 url_pdf: https://ascelibrary.org/doi/epdf/10.1061/NHREFO.NHENG-1930
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -61,4 +57,10 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Other options
+show_related: true
+
 ---
+### Example figure
+![Timeline representing displacement duration alongside key phases of disaster management and recovery.](publication/journal-article/2024_displacement_review.png "Timeline representing displacement duration alongside key phases of disaster management and recovery..")

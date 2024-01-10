@@ -38,7 +38,6 @@ summary: 'In the aftermath of an earthquake, the number of occupants within dest
 tags:
  - household displacement
  - earthquakes
- - disaster risk
 
 # Display this page in the Featured widget?
 featured: true
@@ -77,4 +76,9 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Other options
+show_related: true
+
 ---
+![Presenting slides at the SECED2023 conference.](publication/conference-paper/2023_seced.JPG "")

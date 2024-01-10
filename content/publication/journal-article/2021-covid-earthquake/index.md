@@ -25,7 +25,8 @@ summary: ''
 
 tags:
 - earthquakes
-- disaster risk
+- covid-19 pandemic
+- global earthquake model
 featured: false
 
 # links:
@@ -36,7 +37,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'slides.pdf'
 url_source: ''
 url_video: ''
 
@@ -60,4 +61,10 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Other options
+show_related: true
+
 ---
+### Example figure
+![A plot showing the increase in Covid cases over time due to two different earthquake scenarios affecting Portugal](publication/journal-article/2021_covid_earthquake.png "Forecasting of the (aggregated) number of cumulative COVID-19 cases for the three regions (Lisbon and the Tagus Valley, Alentejo, and Algarve) considering the displaced population from the M5.7 onshore (left) and M8.7 offshore (right) earthquake scenarios. The darker line represents the mean results, while the lighter lines represent individual simulations.")

@@ -44,8 +44,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
-  focal_point: ""
+  caption: 'Estimated number of residential buildings in Africa, aggregated on a uniform hexagonal grid of 0.5 decimal degrees.'
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).
@@ -61,4 +61,13 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Other options
+show_related: true
+
 ---
+### Example figure
+![A map of the African content where the number of estimated residential buildings is visualized using a uniform hexagonal grid of 0.5 decimal degrees](publication/journal-article/2022_africa_exposure.png "Estimated number of residential buildings in Africa, aggregated on a uniform hexagonal grid of 0.5 decimal degrees.")
+
+### Press
+* [**"New Hazard Exposure Model for Africa"**](https://eos.org/articles/new-hazard-exposure-model-for-africa) by Munyaradzi Makoni for EOS

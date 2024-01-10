@@ -42,6 +42,7 @@ tags:
   - REDi
   - resilience
   - earthquakes
+  - arup
 
 # Display this page in the Featured widget?
 featured: false
@@ -80,4 +81,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Other options
+show_related: true
+
 ---

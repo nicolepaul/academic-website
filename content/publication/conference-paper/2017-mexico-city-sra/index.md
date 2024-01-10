@@ -40,6 +40,8 @@ summary: 'This paper presents a series of validation exercises for seismic site 
 tags:
   - finite element analysis
   - earthquakes
+  - arup
+  - site response analysis
 
 # Display this page in the Featured widget?
 featured: false
@@ -78,4 +80,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Other options
+show_related: true
+
 ---

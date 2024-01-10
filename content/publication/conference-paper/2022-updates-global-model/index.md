@@ -34,7 +34,6 @@ abstract: 'An open Global Risk Model was published by the GEM Foundation in 2018
 summary: 'An open Global Risk Model was published by the GEM Foundation in 2018, a multi-year effort (2014-2018) made possible through bilateral collaborations and regional projects. This model encompassed a global mosaic of probabilistic seismic hazard models, a global exposure dataset, and a set of vulnerability models. These components were combined within the OpenQuake- engine to produce several seismic hazard and risk results, including seismic hazard maps for a set of return period and intensity measures, average annualized losses at the smallest administrative level for each country, and identification of the regions with the highest risk globally. Since its initial publication, several improvements have been made to each of the components (i.e., hazard, exposure, vulnerability, and risk). The key features of each revision are described in this paper, as well as a comparison of the differences in risk results between the 2018 model and today’s model.' 
 
 tags:
-  - disaster risk
   - earthquakes
   - global earthquake model
 
@@ -75,4 +74,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Other options
+show_related: true
+
 ---
