@@ -53,7 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['global-earthquake-model']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,4 +70,4 @@ show_related: true
 ![A map of the African content where the number of estimated residential buildings is visualized using a uniform hexagonal grid of 0.5 decimal degrees](publication/journal-article/2022_africa_exposure.png "Estimated number of residential buildings in Africa, aggregated on a uniform hexagonal grid of 0.5 decimal degrees.")
 
 ### Press
-* [**"New Hazard Exposure Model for Africa"**](https://eos.org/articles/new-hazard-exposure-model-for-africa) by Munyaradzi Makoni for EOS
+* ["New Hazard Exposure Model for Africa"](https://eos.org/articles/new-hazard-exposure-model-for-africa) by Munyaradzi Makoni for EOS

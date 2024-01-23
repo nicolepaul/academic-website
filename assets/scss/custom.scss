@@ -1,8 +1,19 @@
+.article-style a{
+    color: #5a464c;
+    text-decoration: underline;
+}
 .fas{
     font-size: 1.0em; 
 }
 .fab{
     font-size: 1.0em; 
+}
+.ai{
+    font-size: 1.0em; 
+}
+.navbar {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.09);
 }
 .alert, .article-style aside, .alert-note {
     color: #5a464c !important;
@@ -21,13 +32,16 @@
     width: 1.5rem;
     text-align: center;
 }
+.article-style {
+    font-size: 1rem;
+}
+.dark .article-style a{
+    color: #f3f6ee;
+    text-decoration: underline;
+}
 .dark .card-simple {
     background-color: #373636;
     }
-.navbar {
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.09);
-}
 .dark .navbar {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
     border: 1px solid #2b2a2a;

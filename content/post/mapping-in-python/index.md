@@ -7,6 +7,8 @@ image:
   caption: ''
 ---
 
+# Mapping series
+
 Hello, World!
 
 {{% callout note %}}

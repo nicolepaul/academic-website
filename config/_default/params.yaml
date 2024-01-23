@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  mode: light
+  mode: classic
   theme_day: custom
   theme_night: custom
   font: native
@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Nicole Paul. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
