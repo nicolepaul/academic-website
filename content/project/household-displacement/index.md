@@ -33,7 +33,20 @@ slides: ""
 ---
 
 {{% callout note %}}
-This is my current research project.
+For a review on household displacement and return after disasters, please refer to my <a href="https://doi.org/10.1061/NHREFO.NHENG-1930" target="_blank">open access paper<i class="ai ai-open-access ml-1"></i></a>
 {{% /callout %}}
 
-Over 265 million people were displaced due to disasters between 2008 and 2018. In the forthcoming years, the annual number displaced is expected to increase, driven by poorly-managed urban growth in hazard-prone areas and potentially exacerbated by climate change. Despite this scale of human impact, most disaster risk assessments focus on direct economic losses, a metric that often highlights the wealthiest as the most at-risk. However, the reality of disasters is that the poor are disproportionately affected, and mitigations informed primarily by economic loss may deepen existing inequalities. This research proposes to quantify disaster-induced displacement; a more equitable risk metric to depict the human toll of disasters.
+### Overview
+
+Over 265 million people were displaced due to disasters between 2008 and 2018[^1]. In the forthcoming years, the annual number displaced is expected to increase, driven by poorly-managed urban growth in hazard-prone areas[^2] and potentially exacerbated by climate change[^3]. Despite this scale of human impact, most disaster risk assessments focus on direct economic losses, a metric that often highlights the wealthiest as the most at-risk. However, the reality of disasters is that the poor are disproportionately affected[^4], and mitigations informed primarily by economic loss may deepen existing inequalities. This research proposes to quantify disaster-induced displacement; a more equitable risk metric to depict the human toll of disasters.
+
+### Acknowledgments
+
+This research is partly funded by the University College London Overseas Research Scholarship (ORS) and the Willis Towers Watson Research Network.
+
+
+[^1]: IDMC. 2019. “Disaster Displacement - A Global Review, 2008-2018.” https://www.internal-displacement.org/publications/disaster-displacement-a-global-review.
+[^2]: IDMC. 2017. “Global Disaster Displacement Risk - A Baseline for Future Work.” https://www.internal-displacement.org/publications/global-disaster-displacement-risk-a-baseline-for-future-work.
+[^3]: IPCC, ed. 2012. “Summary for Policymakers.” In Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation, 1st ed. Cambridge University Press. https://doi.org/10.1017/CBO9781139177245.
+[^4]: Hallegatte, Stéphane, Adrien Vogt-Schilb, Julie Rozenberg, Mook Bangalore, and Chloé Beaudet. 2020. “From Poverty to Disaster and Back: A Review of the Literature.” Economics of Disasters and Climate Change 4 (1): 223–47. https://doi.org/10.1007/s41885-020-00060-5.
+[^5]: IDMC. 2018. “GRID Methodological Annex.” https://www.internal-displacement.org/global-report/grid2018/downloads/report/2018-GRID-methodological-annex.pdf.

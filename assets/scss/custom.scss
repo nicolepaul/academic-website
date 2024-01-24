@@ -1,14 +1,14 @@
 .article-style a{
     color: #5a464c;
+    font-weight: bold;
+}
+.article-style a:hover{
     text-decoration: underline;
 }
-.fas{
-    font-size: 1.0em; 
+.footnotes {
+    font-size: 0.75em;
 }
-.fab{
-    font-size: 1.0em; 
-}
-.ai{
+.fas, .fab, .ai{
     font-size: 1.0em; 
 }
 .navbar {
@@ -16,7 +16,7 @@
     border-bottom: 1px solid rgba(0, 0, 0, 0.09);
 }
 .alert, .article-style aside, .alert-note {
-    color: #5a464c !important;
+    color: #5a464c;
     background-color: #f3f6ee;
     border-color: #5a464c;
 }
@@ -36,7 +36,9 @@
     font-size: 1rem;
 }
 .dark .article-style a{
-    color: #f3f6ee;
+    color: rgba(255, 255, 255, 0.68);
+}
+.dark .article-style a:hover{
     text-decoration: underline;
 }
 .dark .card-simple {
@@ -56,4 +58,21 @@ body.dark, .dark {
 .dark .form-control {
     color: #f3f6ee;
     background-color: #373636;
+}
+.dark .alert, .dark .article-style aside, .dark .alert-note {
+    color: #c3c3c3;
+    background-color: #434343;
+    border-color: #c3c3c3;
+}
+.dark .article-style aside p::before, .dark div.alert > div:first-child::before {
+    position: absolute;
+    top: -0.5rem;
+    left: -2rem;
+    font-size: 1.5rem;
+    color: #c3c3c3;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    content: '\f05a';
+    width: 1.5rem;
+    text-align: center;
 }
