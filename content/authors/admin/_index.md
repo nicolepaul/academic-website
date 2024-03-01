@@ -101,9 +101,7 @@ social:
 highlight_name: true
 ---
 
-I'm currently researching household displacement due to disasters at University College London (UCL). My research is supervised by Prof. Carmine Galasso (UCL) and Prof. Jack Baker (Stanford University).
-
-My background is in structural engineering and I have over nine years of experience quantifying disaster risks. At the Global Earthquake Model (GEM) Foundation, I focused on national and regional scale earthquake risk assessment. At Arup, I worked at the building-specfic and campus scales, with an emphasis on recovery modeling.
+I'm currently researching household displacement due to disasters at University College London (UCL). My background is in structural engineering and I have over nine years of experience quantifying disaster risks. At the Global Earthquake Model (GEM) Foundation, I conducted earthquake risk assessment at the national and regional scales. At Arup, I was focused on the campus and building-specific scales, with an emphasis on modeling recovery after disasters.
 
 <div class="container">
   <div class="row justify-content-between">
