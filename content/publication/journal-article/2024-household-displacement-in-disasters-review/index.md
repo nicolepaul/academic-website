@@ -63,4 +63,4 @@ show_related: true
 
 ---
 ### Example figure
-![Timeline representing displacement duration alongside key phases of disaster management and recovery.](publication/journal-article/2024_displacement_review.png "Timeline representing displacement duration alongside key phases of disaster management and recovery..")
+![Timeline representing displacement duration alongside key phases of disaster management and recovery.](publication/journal-article/2024_displacement_review.png "Timeline representing displacement duration alongside key phases of disaster management and recovery.")

@@ -11,9 +11,20 @@
 .fas, .fab, .ai{
     font-size: 1.0em; 
 }
+
 .navbar {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
     border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+summary {
+    display: list-item;
+    cursor: pointer;
+    font-weight: bold;
+}
+details p {
+    margin-left: 0.3rem;
+    padding-left: 0.7rem;
+    border-left: 0px solid silver;
 }
 .alert, .article-style aside, .alert-note {
     color: #5a464c;
@@ -76,4 +87,12 @@ body.dark, .dark {
     content: '\f05a';
     width: 1.5rem;
     text-align: center;
+}
+
+.dark details p {
+    border-left: 0px solid rgba(255, 255, 255, 0.8);
+}
+
+.dark table > tbody > tr:nth-child(odd) > td, .dark table > tbody > tr:nth-child(odd) > th {
+    background-color: #434343;
 }
