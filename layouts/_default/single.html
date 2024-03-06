@@ -1,0 +1,30 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+  <div class="wrapper">
+
+
+  {{ if (eq .Params.toc true) }}
+  <nav style="position: sticky; position: -webkit-sticky; top: 1rem;">
+  <aside style="float: right; padding: 1rem; margin-left: 1.5rem;">
+    <p style="text-transform: uppercase; font-size: 0.75em; margin-left: 1rem; margin-bottom: 0.75rem; line-height: 2;">On this page</p>
+    {{ .TableOfContents }}
+  </aside>
+  </nav>
+  {{ end}}
+
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+  </div>
+</article>
+
+{{- end -}}

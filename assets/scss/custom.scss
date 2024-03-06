@@ -1,37 +1,138 @@
-.article-style a{
-    color: #5a464c;
-    font-weight: bold;
+p {
+    color: #4c4b4b;
 }
-.article-style a:hover{
-    text-decoration: underline;
-}
+
 .footnotes {
     font-size: 0.75em;
 }
-.fas, .fab, .ai{
-    font-size: 1.0em; 
+
+.fas,
+.fab,
+.ai {
+    font-size: 1.0em;
+}
+
+#TableOfContents li a,
+.toc-top li a {
+    color: #9d9f9a;
+    display: block;
+    padding: 0 1.5rem;
+    line-height: 1.75;
+    font-size: 0.75em;
+}
+
+#TableOfContents li a.active {
+    font-weight: normal;
+    color: primary;
+}
+.article-style a {
+    color: #5a464c;
+    font-weight: normal;
+    border-bottom: 1px solid #5a464c;
+}
+
+a.footnote-ref {
+    border-bottom: 0px;
+}
+a.footnote-ref::before {
+    content: "[";
+}
+a.footnote-ref::after {
+    content: "]";
+}
+
+.article-title a {
+    color: #313131;
+    font-weight: normal;
+    transition: color 0.6s ease;
+}
+
+h1 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+}
+
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
+h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    font-weight: 400;
+}
+
+h4 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+figure figcaption {
+    margin-top: 0.75em;
+    margin-bottom: 1.65rem;
+    line-height: 1.4;
+    font-size: 0.75rem;
+    text-align: center;
+    font-style: italic;
 }
 
 .navbar {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
     border-bottom: 1px solid rgba(0, 0, 0, 0.09);
 }
+
+code {
+    background-color: #f3f6ee;
+    color: #5a464c;
+    word-wrap: break-word;
+    border-radius: 0.25rem;
+    font-size: 80%;
+    border: 1px solid #5a464c;
+    padding: 0.2rem;
+}
+
+.btn {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    line-height: 0.9;
+    border-radius: 0.3rem;
+}
+
 summary {
     display: list-item;
     cursor: pointer;
     font-weight: bold;
 }
+
 details p {
     margin-left: 0.3rem;
     padding-left: 0.7rem;
     border-left: 0px solid silver;
 }
-.alert, .article-style aside, .alert-note {
+
+.table th, .table td {
+    color: #4c4b4b;
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+table >tbody {
+    color: #4c4b4b;
+}
+
+.alert,
+.article-style aside,
+.alert-note {
     color: #5a464c;
     background-color: #f3f6ee;
     border-color: #5a464c;
 }
-.article-style aside p::before, div.alert > div:first-child::before {
+
+.article-style aside p::before,
+div.alert>div:first-child::before {
     position: absolute;
     top: -0.5rem;
     left: -2rem;
@@ -43,40 +144,75 @@ details p {
     width: 1.5rem;
     text-align: center;
 }
+
 .article-style {
     font-size: 1rem;
 }
-.dark .article-style a{
-    color: rgba(255, 255, 255, 0.68);
+
+pre code {
+    background-color: rgba(1, 1, 1, 0);
+    border: 0px;
 }
-.dark .article-style a:hover{
-    text-decoration: underline;
+
+.chroma {
+    border-radius: 0.25rem;
+    font-size: 90%;
+    border: 1px solid silver;
+    padding: 1rem;
 }
+
+.dark p {
+    color: rgba(255, 255, 255, 0.7);
+}
+body.dark, .dark input {
+    color: rgba(255, 255, 255, 0.7);
+}
+
 .dark .card-simple {
     background-color: #373636;
     border-color: #555555;
-    }
+}
+
 .dark .navbar {
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
     border: 1px solid #2b2a2a;
 }
-body.dark, .dark {
-    background:#2b2a2a
+
+body.dark,
+.dark {
+    background: #2b2a2a
 }
+
+.dark code {
+    background-color: #2b2a2a;
+    color: silver;
+    word-wrap: break-word;
+    border-radius: 0.25rem;
+    font-size: 80%;
+    border: 1px solid silver;
+    padding: 0.2rem;
+}
+
 .dark .btn-outline-primary {
     color: #f3f6ee;
     border-color: #f3f6ee;
 }
+
 .dark .form-control {
     color: #f3f6ee;
     background-color: #373636;
 }
-.dark .alert, .dark .article-style aside, .dark .alert-note {
+
+.dark .alert,
+.dark .article-style aside,
+.dark .alert-note {
     color: #c3c3c3;
     background-color: #434343;
     border-color: #c3c3c3;
 }
-.dark .article-style aside p::before, .dark div.alert > div:first-child::before {
+
+.dark .article-style aside p::before,
+.dark div.alert>div:first-child::before {
     position: absolute;
     top: -0.5rem;
     left: -2rem;
@@ -90,9 +226,73 @@ body.dark, .dark {
 }
 
 .dark details p {
-    border-left: 0px solid rgba(255, 255, 255, 0.8);
+    border-left: 0px solid rgba(255, 255, 255, 0.5);
+}
+.dark .table th, .dark .table td {
+    color: rgba(255, 255, 255, 0.7);
+    border-top: 1px solid rgba(255, 255, 255, 0.7);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.7);
+}
+.dark table >tbody {
+    color: rgba(255, 255, 255, 0.7);
 }
 
-.dark table>tbody>tr:nth-child(odd)>td, .dark table>tbody>tr:nth-child(odd)>th {
+.dark table>tbody>tr:nth-child(odd)>td,
+.dark table>tbody>tr:nth-child(odd)>th {
     background-color: #2b2a2a;
+}
+.dark table > tbody > tr:hover > td, .dark table > tbody > tr:hover > th {
+    background-color: #2b2a2a;
+}
+
+.dark pre code {
+    border: 0px;
+}
+
+.dark .chroma {
+    color: #f8f8f2;
+    background-color: #2b2a2a;
+    border-radius: 0.25rem;
+    font-size: 90%;
+    border: 1px solid #555555;
+    padding: 1rem;
+}
+
+.dark .btn-primary,
+.dark .btn.btn-primary.active {
+    background-color: #2b2a2a;
+    border: 1px solid #555555;
+    color: #f8f8f2;
+}
+
+#TableOfContents {
+    padding-left: 0;
+    border-left: 0px solid rgba(255, 255, 255, 0.65);
+}
+
+.dark #TableOfContents li a:hover,
+.toc-top li a:hover {
+    color: #f8f8f2;
+    text-decoration: none;
+}
+
+.dark #TableOfContents li a.active {
+    font-weight: normal;
+    color: #f8f8f2;
+}
+
+.dark .article-style a {
+    color: #f3f6ee;
+    font-weight: normal;
+    border-bottom: 1px solid #f3f6ee;
+}
+
+.dark a.footnote-ref {
+    border-bottom: 0px;
+}
+.dark a.footnote-ref::before {
+    content: "[";
+}
+.dark a.footnote-ref::after {
+    content: "]";
 }

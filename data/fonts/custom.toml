@@ -2,10 +2,10 @@
 name = "Classic"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+google_fonts = "family=Libre+Franklin:wght@300;600&family=DM+Sans:wght@300;400;600&family=Noto+Sans+Mono:wght@300"
 
 # Font families
-heading_font = "Lato"
-body_font = "Merriweather"
-nav_font = "Lato"
-mono_font = "Roboto Mono"
+heading_font = "DM Sans"
+body_font = "Libre Franklin"
+nav_font = "Libre Franklin"
+mono_font = "Noto Sans Mono"

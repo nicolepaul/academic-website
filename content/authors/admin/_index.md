@@ -106,7 +106,7 @@ I'm currently researching household displacement due to disasters at University 
 <div class="container">
   <div class="row justify-content-between">
     <div class="col">
-      <h2>Experience</h2>
+      <h3>Experience</h3>
         <ul class="fa-ul">
         <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Global Earthquake Model, 2019-2023</li>
         <li><span class="portrait-title"><h3>Pavia, Italy</h3></span></li>
@@ -115,7 +115,7 @@ I'm currently researching household displacement due to disasters at University 
         </ul>
     </div>
     <div class="col">
-      <h2>Education</h2>
+      <h3>Education</h3>
         <ul class="fa-ul">
         <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Structural Engineering, 2015</li>
         <li><span class="portrait-title"><h3>Stanford University</h3></li>
