@@ -25,6 +25,7 @@ p {
     font-weight: normal;
     color: primary;
 }
+
 .article-style a {
     color: #5a464c;
     font-weight: normal;
@@ -34,9 +35,11 @@ p {
 a.footnote-ref {
     border-bottom: 0px;
 }
+
 a.footnote-ref::before {
     content: "[";
 }
+
 a.footnote-ref::after {
     content: "]";
 }
@@ -45,6 +48,14 @@ a.footnote-ref::after {
     color: #313131;
     font-weight: normal;
     transition: color 0.6s ease;
+}
+
+::selection {
+    background: rgba(90, 70, 76, 0.15);
+}
+
+::-moz-selection {
+    background: rgba(90, 70, 76, 0.15);
 }
 
 h1 {
@@ -114,19 +125,21 @@ details p {
     border-left: 0px solid silver;
 }
 
-.table th, .table td {
+.table th,
+.table td {
     color: #4c4b4b;
     border-top: 1px solid silver;
     border-bottom: 1px solid silver;
 }
-table >tbody {
+
+table>tbody {
     color: #4c4b4b;
 }
 
 .alert,
 .article-style aside,
 .alert-note {
-    color: #5a464c;
+    color: rgb(90, 70, 76);
     background-color: #f3f6ee;
     border-color: #5a464c;
 }
@@ -164,7 +177,9 @@ pre code {
 .dark p {
     color: rgba(255, 255, 255, 0.7);
 }
-body.dark, .dark input {
+
+body.dark,
+.dark input {
     color: rgba(255, 255, 255, 0.7);
 }
 
@@ -228,12 +243,15 @@ body.dark,
 .dark details p {
     border-left: 0px solid rgba(255, 255, 255, 0.5);
 }
-.dark .table th, .dark .table td {
+
+.dark .table th,
+.dark .table td {
     color: rgba(255, 255, 255, 0.7);
     border-top: 1px solid rgba(255, 255, 255, 0.7);
     border-bottom: 1px solid rgba(255, 255, 255, 0.7);
 }
-.dark table >tbody {
+
+.dark table>tbody {
     color: rgba(255, 255, 255, 0.7);
 }
 
@@ -241,7 +259,9 @@ body.dark,
 .dark table>tbody>tr:nth-child(odd)>th {
     background-color: #2b2a2a;
 }
-.dark table > tbody > tr:hover > td, .dark table > tbody > tr:hover > th {
+
+.dark table>tbody>tr:hover>td,
+.dark table>tbody>tr:hover>th {
     background-color: #2b2a2a;
 }
 
@@ -287,12 +307,22 @@ body.dark,
     border-bottom: 1px solid #f3f6ee;
 }
 
+.dark ::selection {
+    background: rgba(243, 246, 238, 0.15);
+}
+
+.dark ::-moz-selection {
+    background: rgba(243, 246, 238, 0.15);
+}
+
 .dark a.footnote-ref {
     border-bottom: 0px;
 }
+
 .dark a.footnote-ref::before {
     content: "[";
 }
+
 .dark a.footnote-ref::after {
     content: "]";
 }
