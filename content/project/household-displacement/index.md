@@ -43,6 +43,8 @@ For a review on household displacement and return after disasters, please refer 
 
 Over 265 million people were displaced due to disasters between 2008 and 2018[^1]. In the forthcoming years, the annual number displaced is expected to increase, driven by poorly-managed urban growth in hazard-prone areas[^2] and potentially exacerbated by climate change[^3]. Despite this scale of human impact, most disaster risk assessments focus on direct economic losses, a metric that often highlights the wealthiest as the most at-risk. However, the reality of disasters is that the poor are disproportionately affected[^4], and mitigations informed primarily by economic loss may deepen existing inequalities. This research proposes to quantify disaster-induced displacement; a more equitable risk metric to depict the human toll of disasters.
 
+![Key definitions and the scope. The highlighted labels indicate the areas considered in this review. Labels below the highlighted labels are subsets of that category.](project/household-displacement/scope.png "Key definitions and the scope. The highlighted labels indicate the areas considered in this review. Labels below the highlighted labels are subsets of that category.")
+
 ## Research themes
 
 ### The importance of duration

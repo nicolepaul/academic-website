@@ -26,6 +26,7 @@ p {
     color: primary;
 }
 
+
 .article-style a {
     color: #5a464c;
     font-weight: normal;
@@ -325,4 +326,10 @@ body.dark,
 
 .dark a.footnote-ref::after {
     content: "]";
+}
+
+@media screen and (max-width: 760px) {
+    aside#sidebar-nav {
+        display: none !important;
+    }
 }
