@@ -63,12 +63,11 @@ Disasters are life events that can subject households to key decision points, su
 |  <i class="fa-solid fa-building-columns"></i> | Pre- and post-disaster policies          | <ul><li>Pre-existing housing conditions (e.g., vacancies)</li><li>Housing reconstruction approach</li><li>Other disaster assistance policies</li></ul> |
 
 ### The role of housing damage
-Disaster literature offers a clear consensus that housing damage is a primary driver of household displacement of disasters, at least in the emergency phase. However, additional factors (e.g., place attachment and housing tenure) have more recently been proposed as highly influential for household return in the recovery phase. Despite the range of factors beyond damage that have been proporsed to influence household return, standard practice in disaster risk analysis is to solely consider housing damage. That is, the number of destroyed homes is multiplied by the average household size to yield an estimate of the displaced population.
+Disaster literature offers a clear consensus that housing damage is a primary driver of household displacement of disasters, at least in the emergency phase. However, additional factors (e.g., place attachment and housing tenure) have more recently been proposed as highly influential for household return in the recovery phase. Despite the range of factors beyond damage that have been proposed to influence household return, standard practice in disaster risk analysis is to solely consider housing damage. That is, the number of destroyed homes is multiplied by the average household size to yield an estimate of the displaced population.
 
 In an initial study, I benchmarked predictions of household displacement based solely on housing damage to understand the extent to which such simplified models can explain the phenomenon. The results of the benchmarking study are available in a [conference paper](/publication/conference-paper/2023-benchmarking-displacement-earthquakes/).
 
 ![Benchmarking results for displacement estimates using a scenario risk analysis that only considers housing damage (green) versus official reports and mobile location data-based estimates.](project/household-displacement/benchmarking.png "Benchmarking results for displacement estimates using a scenario risk analysis that only considers housing damage (green) versus official reports and mobile location data-based estimates.")
-
 
 ## Acknowledgments
 
