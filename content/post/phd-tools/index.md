@@ -1,6 +1,6 @@
 ---
 title: Tools I've found useful during my PhD
-summary: "*Apps, services, etc. that I've found useful for studying and research.*"
+summary: "*Apps, services, etc. that I've found useful for research.*"
 date: 2024-07-27
 math: true
 toc: true
