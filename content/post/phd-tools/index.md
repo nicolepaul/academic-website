@@ -33,7 +33,7 @@ Once it's time to read a potentially relevant literature item (e.g., journal art
 
 ![png](notion.png "My literature review database using Notion.")
 
-[Feel free to duplicate my literature review template and make it your own!](https://litreview.notion.site/) If you decide to use my literature review template, I suggest that you tailor your effort in note-taking based on its relevance to your research. If the paper seems highly relevant, take care to rephrase key claims in your own terms. If the paper is less relevant, feel free to copy and paste relevant text snippets, but use quotation marks (`"`) to clearly indicate to yourself that you did not rephrase it as to avoid plagiarism when you refer back to your notes later on. Regardless, I always find it useful to write a short paragraph summary of the item using my own words, which helps me to recall the key contributions of the item later on.
+[Feel free to duplicate my literature review template and make it your own!](https://litreview.notion.site/) If you decide to use my literature review template, I suggest that you tailor your effort in note-taking based on its relevance to your research. If the paper seems highly relevant, take care to rephrase key claims in your own terms. If the paper is less relevant, feel free to copy and paste relevant text snippets, but use quotation marks (`"`) to clearly indicate to yourself that you did not rephrase it as to avoid plagiarism when you refer back to your notes later on. Regardless, I always find it useful to write a short paragraph summary of the item using my own words, which helps me to recall the key contributions later on.
 
 While my main use of Notion is for the literature review database, I also use Notion for other purposes: managing to-do lists with a Kanban board, drafting paper outlines using a minimalist interface, taking notes on different analysis methods (e.g., saving relevant links and code snippets).
 
@@ -45,7 +45,7 @@ I think most of us are probably already familiar with [Google Scholar](https://s
 
 ![png](google_scholar.png "An example alert using Google Scholar.")
 
-Every working day, I open the email alerts and scan the titles to see if any of the results seem interesting and useful to my research. If so, then I will file that item in my Zotero library at that time. I rarely read the item right away, but it will at least be easy for me to find later on when relevant. 
+Every working day, I open the email alerts and scan the titles to see if any of the results seem interesting and useful to my research. If so, then I will file that item in my Zotero library at that time. I rarely read the item right away, but at least I know of its existence and will be able to easily find it later on.
 
 ## Code and data analysis
 
@@ -71,7 +71,7 @@ General code editors include Emacs, VSCode, Sublime, and Vim. Some IDEs for Pyth
 
 * Do I really want a built-in debugger for the Python language? If yes, then consider something like Spyder or PyCharm
 
-* Do I foresee a need to support languages aside from just Python (e.g., I might want to build a personal website in Python, which requires HTML/CSS)? If yes, then consider a more flexible text editor like VSCode
+* Do I foresee a need to support languages aside from just Python (e.g., I might want to build a personal website that requires HTML/CSS)? If yes, then consider a more flexible text editor like VSCode
 
 * Do I want to get started ASAP, rather than have a longer setup cost? If yes, consider a Python IDE. If you're previously familiar with a language like MATLAB, Spyder will give you a familiar experience
 
@@ -89,7 +89,7 @@ All that effort and work you put into your research can easily be lost if you ar
 
 ### Overleaf: A browser-based LaTeX editor
 
-Microsoft Word is great for shorter and simpler documents. However, after a certain number of tables, citations, and tracked changes, the technology starts to break down. For many in academia, this is where LaTeX often comes into play. For more on LaTeX, please see [this blog post](https://blog.orvium.io/latex-over-word/).
+Microsoft Word is great for shorter and simpler documents. However, the technology starts to break down after a certain number of tables, citations, and tracked changes. For many in academia, this is where LaTeX often comes into play. For more on LaTeX, please see [this blog post](https://blog.orvium.io/latex-over-word/).
 
 {{% callout note %}}
 **LaTeX** is a writing software where users write text and code to prepare and typeset documents.
