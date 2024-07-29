@@ -35,7 +35,7 @@ Once it's time to read a potentially relevant literature item (e.g., journal art
 
 [Feel free to duplicate my literature review template and make it your own!](https://litreview.notion.site/) If you decide to use my literature review template, I suggest that you tailor your effort in note-taking based on its relevance to your research. If the paper seems highly relevant, take care to rephrase key claims in your own terms. If the paper is less relevant, feel free to copy and paste relevant text snippets, but use quotation marks (`"`) to clearly indicate to yourself that you did not rephrase it as to avoid plagiarism when you refer back to your notes later on. Regardless, I always find it useful to write a short paragraph summary of the item using my own words, which helps me to recall the key contributions of the item later on.
 
-While my main use of Notion is for the literature review database, I also use Notion for other purposes: managing to-do lists with a Kanban board, draft paper outlines using a minimalist interface, taking notes on different analysis methods (e.g., saving relevant links and code snippets).
+While my main use of Notion is for the literature review database, I also use Notion for other purposes: managing to-do lists with a Kanban board, drafting paper outlines using a minimalist interface, taking notes on different analysis methods (e.g., saving relevant links and code snippets).
 
 [**Notion**](https://www.notion.so/) has both free and paid plans. [However, students and educators are eligible for a free paid plan](https://www.notion.so/product/notion-for-education). There are also various [integrations](https://www.notion.so/integrations/all) that could be useful.
 
