@@ -151,6 +151,11 @@ If you have any questions regarding this study, do not hesitate to ask the resea
   * **Indonesia:** The Research Ethics Committee on Social Studies and Humanities, National Research and Innovation Agency at klirensetik@brin.go.id
 </details>
 
+<details>
+<summary>Where can I learn more about how to prepare for earthquakes and tsunamis?</summary>
+For further information about earthquake and tsunami preparedness, please refer to the <a href="https://www.bmkg.go.id/gempabumi/mitigasi/edukasi-gempabumi-tsunami">BMKG website</a>.
+</details>
+
 
 ## Study outputs
 

@@ -152,6 +152,11 @@ Jika Anda memiliki pertanyaan apapun terkait studi ini, jangan segan-segan untuk
   * **Indonesia:** Komisi Etik Riset Bidang Sosial Humaniora, Badan Riset dan Inovasi Nasional di klirensetik@brin.go.id
 </details>
 
+<details>
+<summary>Di mana saya dapat mempelajari lebih lanjut tentang cara bersiap menghadapi gempa bumi dan tsunami?</summary>
+Untuk informasi lebih lanjut tentang kesiapsiagaan menghadapi gempa bumi dan tsunami, silakan merujuk ke <a href="https://www.bmkg.go.id/gempabumi/mitigasi/edukasi-gempabumi-tsunami">situs web BMKG</a>.
+</details>
+
 
 ## Hasil studi
 
