@@ -102,9 +102,9 @@ With the microdata, we can additionally fit predictive models and evaluate their
 
 * **TreeP&S:** A classification tree model that predicts return outcomes with a minimum number of predictors related to physical *and* socioeconomic factors.
 
-* **ForestP&S:** A random forest model that predicts return outcomes considering all predictions related to physical *and* socioeconomic factors.
+* **ForestP&S:** A random forest model that predicts return outcomes considering all predictions related to physical and socioeconomic factors.
 
-The **ForestP&S** model additionally allows us to highlight the importance of different physical and socioeconomic factors to predictions of displacement duration and return. These model explanations confirm that property damage is a primary driver of displacement outcomes. However, they also indicate that some socioeconomci factors are consistently important to consider, such as a household's tenure status and income level. Additionally, some factors (e.g., physical immobility, household sizes of 8+, educational attainment levels of less than high school) were associated with more negative outcomes.
+The **ForestP&S** model additionally allows us to highlight the importance of different physical and socioeconomic factors to predictions of displacement duration and return. These model explanations confirm that property damage is a primary driver of displacement outcomes. However, they also indicate that some socioeconomic factors are critical to consider, such as a household's tenure status and income level. Additionally, some factors (e.g., physical immobility, household sizes of 8+, educational attainment levels of less than high school) were associated with more negative outcomes.
 
 ## Acknowledgments
 
