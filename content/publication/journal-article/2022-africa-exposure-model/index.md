@@ -27,6 +27,7 @@ summary: ''
 tags:
  - exposure modeling
  - global earthquake model
+ - africa
 featured: false
 
 # links:

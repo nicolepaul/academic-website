@@ -70,13 +70,41 @@ For more on the role of housing damage in population displacement predictions, p
 
 Disaster literature offers a clear consensus that housing damage is a primary driver of household displacement of disasters, both for initial displacement and longer-term displacement. However, additional factors (e.g., place attachment and housing tenure) have more recently been proposed as highly influential for household return in the recovery phase. Despite the range of factors beyond damage that have been proposed to influence household return, standard practice in disaster risk analysis is to solely consider housing damage. That is, the number of destroyed homes is multiplied by the average household size to yield an estimate of the displaced population.
 
-In an initial study, I benchmarked predictions of household displacement based solely on housing damage to understand the extent to which such simplified models can explain the phenomenon. The results of the benchmarking study are available in a [journal paper](/publication/journal-article/2024-benchmarking-displacement-earthquakes/) and a [conference paper](/publication/conference-paper/2023-benchmarking-displacement-earthquakes/).
+![A graphical representation of the conventional practice for estimating population displacement after disasters: Displacement population = Destroyed houses × Average household size.](project/household-displacement/conventional_practice.png "An illustration of the conventional practice for estimating population displacement after disaster events.")
+
+I benchmarked predictions of household displacement based solely on housing damage to understand the extent to which such simplified models can explain the phenomenon. The scenario model estimates showed some promise to predict potential long-term housing needs. However, quantifying displacement duration remained a clear challenge as official reports lacked this information and model estimates similarly lacked a time component. Mobile location data could theoretically fill the data gap on duration, but the benchmarking results indicate that further investigation is required on such data-driven methods.
 
 ![Benchmarking results for displacement estimates using a scenario risk analysis that only considers housing damage (green) versus official reports and mobile location data-based estimates.](project/household-displacement/benchmarking.png "Benchmarking results for displacement estimates using a scenario risk analysis that only considers housing damage (green) versus official reports and mobile location data-based estimates.")
 
+The full results of the benchmarking study are available in a [journal paper](/publication/journal-article/2024-benchmarking-displacement-earthquakes/) and a [conference paper](/publication/conference-paper/2023-benchmarking-displacement-earthquakes/).
+
 ### Predicting displacement durations
 
-More on this topic coming soon!
+{{% callout note %}}
+For more on displacement duration and return predictions, please refer to my <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/risa.17710" target="_blank">open access paper<i class="ai ai-open-access ml-1"></i></a>.
+{{% /callout %}}
+
+According to new data from the United States Household Pulse Survey (HPS), approximtely 1.1% of households have reported being displaced in recent disasters. However, the rates of disaster displacement vary widely state-by-state.
+
+![A map of the United States where the percent of households displacement due to disasters is visualized state-by-state.](publication/journal-article/2025_hps_displacement.png "Percentage of households displaced by state according to the United States Household Pulse Survey (based on all available survey datawhere displacement is included through July 2024).")
+
+The vast majority of displaced households returned quickly: 43% within a week and an additional 23% within a month. However, others faced more protracted displacement: 20% took longer than one month to return and 14% had not returned by the time of the survey.
+
+![A map of the United States where the proportion of households that took beyond one month to return is visualized state-by-state.](project/household-displacement/hps_protracted.png "Percentage of displaced households households that took longer than one month to return according to the United States Household Pulse Survey (based on all available survey datawhere displacement is included through July 2024).")
+
+The availability of microdata from the HPS allows us to explore trends between displacement duration and return outcomes with potentially relevant factors such as: property damage, lifeline disruption, household demographics, and area-based attributes. To explore these trends, please refer to my [interactive dashboard](https://hps.nicolepaul.io/).
+
+![A screenshot of the interactive dashboard.](project/household-displacement/dashboard.png "Preview of the interactive dashboard: https://hps.nicolepaul.io/")
+
+With the microdata, we can additionally fit predictive models and evaluate their performance. In our study, we propose three alternate models, which range in complexity and predictive power:
+
+* **TreeP:** A classification tree model that predicts return outcomes with a minimum number of predictors related to physical factors.
+
+* **TreeP&S:** A classification tree model that predicts return outcomes with a minimum number of predictors related to physical *and* socioeconomic factors.
+
+* **ForestP&S:** A random forest model that predicts return outcomes considering all predictions related to physical *and* socioeconomic factors.
+
+The **ForestP&S** model additionally allows us to highlight the importance of different physical and socioeconomic factors to predictions of displacement duration and return. These model explanations confirm that property damage is a primary driver of displacement outcomes. However, they also indicate that some socioeconomci factors are consistently important to consider, such as a household's tenure status and income level. Additionally, some factors (e.g., physical immobility, household sizes of 8+, educational attainment levels of less than high school) were associated with more negative outcomes.
 
 ## Acknowledgments
 
