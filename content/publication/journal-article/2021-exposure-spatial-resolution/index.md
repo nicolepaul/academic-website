@@ -68,3 +68,6 @@ slides: ""
 # Other options
 show_related: true
 ---
+
+### Policy documents
+* [Prioritising EU regions for building renovation](https://op.europa.eu/en/publication-detail/-/publication/b35b92a4-5c08-11ed-92ed-01aa75ed71a1/language-en) by the European Commission Joint Research Centre (JRC), 2022

@@ -72,3 +72,7 @@ show_related: true
 
 ### Press
 * ["New Hazard Exposure Model for Africa"](https://eos.org/articles/new-hazard-exposure-model-for-africa) by Munyaradzi Makoni for EOS
+* ["Mapping exposure of urban and rural communities to natural hazards"](https://africapolis.org/en/research/mapping-exposure-of-urban-and-rural-communities-to-natural-hazards) by Nicole Paul for Africapolis
+
+### Policy documents
+* [Building Regulations in Sub-Saharan Africa: A Status Review of the Building Regulatory Environment](https://openknowledge.worldbank.org/entities/publication/6a0da039-a2d4-4117-bf30-04c58ccd0847) by the World Bank Global Facility for Disaster Reduction and Recovery (GFDRR), 2023

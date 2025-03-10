@@ -68,3 +68,6 @@ show_related: true
 ---
 ### Example figure
 ![A plot showing the increase in Covid cases over time due to two different earthquake scenarios affecting Portugal](publication/journal-article/2021_covid_earthquake.png "Forecasting of the (aggregated) number of cumulative COVID-19 cases for the three regions (Lisbon and the Tagus Valley, Alentejo, and Algarve) considering the displaced population from the M5.7 onshore (left) and M8.7 offshore (right) earthquake scenarios. The darker line represents the mean results, while the lighter lines represent individual simulations.")
+
+### Press
+* ["Where Do People Fit into a Global Hazard Model?"](https://eos.org/features/where-do-people-fit-into-a-global-hazard-model) by Richard J. Sima for EOS

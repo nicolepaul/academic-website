@@ -69,3 +69,6 @@ Explore trends related to property damage and displacement duration from the Uni
 
 ### Example figure
 ![A map of the United States where the percent of households displacement due to disasters is visualized state-by-state.](publication/journal-article/2025_hps_displacement.png "Percentage of households displaced by state according to the United States Household Pulse Survey (based on all available survey datawhere displacement is included through July 2024).")
+
+### Press
+* ["New computer model can predict the length of a household’s displacement in any U.S. community after a disaster"](https://www.sra.org/2025/02/10/new-computer-model-can-predict-the-length-of-a-households-displacement-in-any-u-s-community-after-a-disaster/) by the Society for Risk Analysis (SRA)

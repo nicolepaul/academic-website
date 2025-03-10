@@ -74,3 +74,5 @@ slides: ""
 show_related: true
 
 ---
+### Policy documents
+* [Cross-border and emerging risks in Europe](https://op.europa.eu/en/publication-detail/-/publication/e7ccf960-1ef7-11ef-a251-01aa75ed71a1/language-en) by the European Commission Joint Research Centre (JRC), 2024
