@@ -72,3 +72,4 @@ Explore trends related to property damage and displacement duration from the Uni
 
 ### Press
 * ["New computer model can predict the length of a household’s displacement in any U.S. community after a disaster"](https://www.sra.org/2025/02/10/new-computer-model-can-predict-the-length-of-a-households-displacement-in-any-u-s-community-after-a-disaster/) by the Society for Risk Analysis (SRA)
+* ["SimCenter tools and data facilitate research about post-disaster household displacement"](https://simcenter.designsafe-ci.org/news/2025/march/simcenter-tools-and-data-facilitate-research-about-post-disaster/) by NHERI SimCenter
