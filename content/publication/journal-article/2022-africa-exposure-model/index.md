@@ -75,4 +75,5 @@ show_related: true
 * ["Mapping exposure of urban and rural communities to natural hazards"](https://africapolis.org/en/research/mapping-exposure-of-urban-and-rural-communities-to-natural-hazards) by Nicole Paul for Africapolis
 
 ### Policy documents
+* [Africa's Urbanisation Dynamics 2025: Planning for Urban Expansion](https://www.oecd.org/en/publications/africa-s-urbanisation-dynamics-2025_2a47845c-en.html) by the Organisation for Economic Co-operation and Development (OECD), 2025
 * [Building Regulations in Sub-Saharan Africa: A Status Review of the Building Regulatory Environment](https://openknowledge.worldbank.org/entities/publication/6a0da039-a2d4-4117-bf30-04c58ccd0847) by the World Bank Global Facility for Disaster Reduction and Recovery (GFDRR), 2023

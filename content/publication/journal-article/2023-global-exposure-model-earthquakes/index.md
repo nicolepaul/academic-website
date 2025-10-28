@@ -75,4 +75,5 @@ show_related: true
 
 ---
 ### Policy documents
+* [A Global Assessment of Building Codes: Current Status and Evolving Needs to Promote Resilient, Green and Inclusive Buildings](https://openknowledge.worldbank.org/entities/publication/6f69f235-edf6-40b9-9a4b-5efad46630aa) by the World Bank Global Facility for Disaster Reduction and Recovery (GFDRR) and Inter-American Development Bank (IDB), 2025
 * [Cross-border and emerging risks in Europe](https://op.europa.eu/en/publication-detail/-/publication/e7ccf960-1ef7-11ef-a251-01aa75ed71a1/language-en) by the European Commission Joint Research Centre (JRC), 2024

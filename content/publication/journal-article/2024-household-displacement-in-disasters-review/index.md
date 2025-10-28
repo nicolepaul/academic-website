@@ -64,3 +64,6 @@ show_related: true
 ---
 ### Example figure
 ![Timeline representing displacement duration alongside key phases of disaster management and recovery.](publication/journal-article/2024_displacement_review.png "Timeline representing displacement duration alongside key phases of disaster management and recovery.")
+
+### Policy documents
+* [Management of Earthquake Risk in the European Union](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099092925034042644) by the World Bank, 2025
