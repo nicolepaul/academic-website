@@ -67,3 +67,6 @@ show_related: true
 
 ### Policy documents
 * [Management of Earthquake Risk in the European Union](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099092925034042644) by the World Bank, 2025
+
+### Press
+* ["Disaster displacement: How growing risks are reshaping resilience"](https://www.wtwco.com/en-gb/insights/2025/11/risk-and-resilience-review-human-vulnerability-the-next-frontier-of-risk) by Willis Towers Watson
